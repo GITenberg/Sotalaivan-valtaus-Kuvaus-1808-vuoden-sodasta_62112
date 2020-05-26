@@ -1,0 +1,38 @@
+_repo: Sotalaivan-valtaus-Kuvaus-1808-vuoden-sodasta_62112
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ivalo, Santeri
+    aliases:
+    - Ingman, Santeri
+    - Ivalo, Herman Aleksander
+    birthdate: 1866
+    deathdate: 1937
+    gutenberg_agent_id: '31820'
+    url: http://www.gutenberg.org/2009/agents/31820
+    wikipedia: http://fi.wikipedia.org/wiki/Santeri_Ivalo
+creator:
+  author:
+    agent_name: Melander, Richard
+    alias: Melander, Rikhard
+    birthdate: 1857
+    deathdate: 1922
+    gutenberg_agent_id: '51772'
+    url: http://www.gutenberg.org/2009/agents/51772
+    wikipedia: https://sv.wikipedia.org/wiki/Richard_Melander
+description: ''
+gutenberg_issued: '2020-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62112'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, Swedish -- Translations into Finnish'
+- !lcc 'PZ'
+- !lcsh 'Russo-Swedish War, 1808-1809 -- Juvenile fiction'
+- GITenberg
+title: "Sotalaivan valtaus\r\nKuvaus 1808 vuoden sodasta"
+url: http://www.gutenberg.org/ebooks/62112
