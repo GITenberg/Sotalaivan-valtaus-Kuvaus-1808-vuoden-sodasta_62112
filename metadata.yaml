@@ -1,5 +1,5 @@
 _repo: Sotalaivan-valtaus-Kuvaus-1808-vuoden-sodasta_62112
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Ivalo, Santeri
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '31820'
     url: http://www.gutenberg.org/2009/agents/31820
     wikipedia: http://fi.wikipedia.org/wiki/Santeri_Ivalo
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Melander, Richard
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51772
     wikipedia: https://sv.wikipedia.org/wiki/Richard_Melander
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62112#Sotalaivan-valtaus-Kuvaus-1808-vuoden-sodasta
 gutenberg_issued: '2020-05-13'
 gutenberg_type: Text
 identifiers:
